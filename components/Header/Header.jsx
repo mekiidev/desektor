@@ -27,7 +27,7 @@ export const Header = () => {
       <div className="w-full h-16 "></div>
       <div className="fixed w-full h-16 blur-2xl bg-background"></div>
 
-      <div className="fixed container w-full h-16 flex justify-between items-center ">
+      <div className="fixed container w-full h-16 flex justify-between items-end ">
         <div id="logo">
           <Link className="text-heading text-3xl font-bold" href={"/"}>
             <Image alt="" className="h-16 w-auto"  src={Typo}/>

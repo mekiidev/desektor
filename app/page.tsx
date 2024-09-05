@@ -4,7 +4,7 @@ import {Solutions} from "@/components/Solutions/Solutions"
 export default function Home() {
   console.log("this works here");
   return (
-    <main className=" overflow-hidden">
+    <main className="w-full overflow-x-hidden">
       <Hero />
       <Solutions />
     </main>
