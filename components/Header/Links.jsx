@@ -12,6 +12,10 @@ export const Links=({onClick})=>{
             path:"#solutions"
         },
         {
+            title:"Services",
+            path:"#services"
+        },
+        {
             title:"Plans",
             path:"#"
         },

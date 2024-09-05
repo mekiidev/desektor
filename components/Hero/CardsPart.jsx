@@ -28,7 +28,7 @@ export const CardsPart = () => {
     });
   }, []);
   return (
-    <div className="image-container flex relative justify-end items-center w-full py-9 md:max-w-xl xl:max-w-4xl">
+    <div className="image-container flex relative justify-end items-center w-full py-9 md:w-4/6">
       <Image
         className={`w-2/5 origin-bottom absolute -rotate-90 ${allImagesLoaded ? 'animate-rotate-in' : ''}`}
         src={card1}
