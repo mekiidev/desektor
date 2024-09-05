@@ -1,5 +1,5 @@
 import {Hero} from "@/components/Hero/Hero"
-import Image from "next/image";
+import {Services} from "@/components/Services/Services"
 import {Solutions} from "@/components/Solutions/Solutions"
 export default function Home() {
   console.log("this works here");
@@ -7,6 +7,7 @@ export default function Home() {
     <main className="w-full overflow-x-hidden">
       <Hero />
       <Solutions />
+      <Services />
     </main>
   );
 }
