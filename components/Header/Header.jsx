@@ -33,7 +33,7 @@ export const Header = () => {
             <Image alt="" className="h-16 w-auto"  src={Typo}/>
           </Link>
         </div>
-        <nav className="hidden md:flex gap-2 ">
+        <nav className="hidden md:flex gap-4 ">
           <Links />
         </nav>
         <nav

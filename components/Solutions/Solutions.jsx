@@ -11,7 +11,7 @@ export const Solutions = () =>{
     return(
         <section id="solutions" className="py-16 text-heading">
             <LineScrollPart />
-            <h2 className=" text-6xl md:text-9xl text-center">Solutions</h2>
+            <h2 className=" text-6xl md:text-9xl text-center z-50 -translate-y-[300%] md:-translate-y-[200%] lg:-translate-y-[260%] xl:-translate-y-[300%] ">Solutions</h2>
             <br></br>
             <div className="container">
                 <GridList>

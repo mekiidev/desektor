@@ -44,6 +44,9 @@ const config: Config = {
         "infinity-scroll-second":"infinityScrollSecond 10s linear infinite",
         "glow": 'glow 1.5s ease-in-out infinite',
       },
+      backgroundImage: {
+        'card':"url(/img/shape-1.png)"
+      }
     },
   },
   plugins: [],

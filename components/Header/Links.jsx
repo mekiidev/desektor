@@ -17,7 +17,7 @@ export const Links=({onClick})=>{
         },
         {
             title:"Plans",
-            path:"#"
+            path:"#plans"
         },
     ]
     return(
