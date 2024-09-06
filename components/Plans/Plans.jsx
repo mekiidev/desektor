@@ -37,7 +37,7 @@ export const Plans = () => {
                 <ul>12 Posts Monthly</ul>
               </li>
             </ul>
-            <a href="https://wa.me/+201121520271" className="bg-gray-300 text-gray-900 p-4 text-xl rounded-md">Contact Sales Team</a>
+            <a href="https://wa.me/+201027025532" className="bg-gray-300 text-gray-900 p-4 text-xl rounded-md">Contact Sales Team</a>
           </div>
           <div className=" p-8 w-full flex flex-col justify-center items-center bg-card bg-center bg-no-repeat">
             <h3 className="text-2xl py-4">Plus</h3>
@@ -56,7 +56,7 @@ export const Plans = () => {
               <li>CGI</li>
               <li>Up to 56 posts on social media</li>
             </ul>
-            <a href="https://wa.me/+201121520271" className="my-2 bg-gray-300 text-gray-900 p-4 text-xl rounded-md">Contact Sales Team</a>
+            <a href="https://wa.me/+201027025532" className="my-2 bg-gray-300 text-gray-900 p-4 text-xl rounded-md">Contact Sales Team</a>
 
           </div>
           <div className=" w-full flex flex-col justify-center items-center bg-card bg-center bg-no-repeat">
